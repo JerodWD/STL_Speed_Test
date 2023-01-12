@@ -6,3 +6,5 @@ It also test the time it takes to run a few sorting and searching algorithms:
 Heap Sort, Merge Sort, Vector Search and List Search
 
 Attached is a word document describing the STL's 
+
+Directory is 'J:\Data Structures\Programs\Program5' on the VM. Need to get GitLab Large File Upload to upload this program
